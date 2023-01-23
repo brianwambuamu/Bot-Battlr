@@ -2,7 +2,7 @@
   "name": "react-hooks-bot-battlr-code-challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rlynette.github.io/Bot-Battlr",
+  "homepage": "https://brianwambuamu.github.io/Bot-Battlr",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^17.0.1",
